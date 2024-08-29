@@ -6,7 +6,7 @@ Cálculo de impostos como ITBI (Imposto de Transmissão de Bens Imóveis) com ba
 Interface simples para inserção dos dados necessários para o cálculo.
 Validação dos dados de entrada para garantir cálculos precisos.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 Linguagem: Java
 Ambiente de Desenvolvimento: IntelliJ IDEA e NetBeans
 Versão do Java: Java 8 ou superior
